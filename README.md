@@ -1,5 +1,5 @@
-# 💻 Yevheniia Shavrukova — Front-End Developer
----
+# 💻 Shavrukova Yevheniia — Front-End Developer
+
 
 ## 📝 SUMMARY  
 I have always enjoyed solving problems and thinking analytically, which led me to pursue a degree in **Mathematical Statistics**. While running my own **e-commerce store**, I discovered that what truly excites me is the process of **building and optimizing websites**. I love seeing the visual results of my work and creating **user-friendly, engaging interfaces**.  
@@ -42,10 +42,8 @@ Now, I’m excited to bring my **problem-solving skills, creativity, and passion
 
 ## 📫 Let’s connect and create something amazing together!  
 - 🌐 [**Connect with me on LinkedIn**](https://www.linkedin.com/in/yevheniia-shavrukova)  
-- 🌎 [**Explore my Front-End Portfolio**](https://janeshavrukova.github.io/Shavrukova-portfolio/)  
+- 🌎 [**Explore my Front-End Portfolio**](https://janeshavrukova.github.io/Portfolio/) 
 - 💾 [**View my GitHub Projects**](https://github.com/JaneShavrukova)  
 - 📧 [**Email**](mailto:eva.shavrukova@gmail.com)  
 - 📞 **Phone:** +1 (778) 955-1609 
- 
-
 ---
