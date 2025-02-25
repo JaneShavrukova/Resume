@@ -45,6 +45,6 @@ Now, I’m excited to bring my **problem-solving skills, creativity, and passion
 - 🌎 [**Explore my Front-End Portfolio**](https://janeshavrukova.github.io/Portfolio/) 
 - 💾 [**View my GitHub Projects**](https://github.com/JaneShavrukova)  
 - 📧 [**Email**](mailto:eva.shavrukova@gmail.com)  
-- 📞 **Phone:** +1 (778) 955-1609
+- 📞 **Phone:** (778) 955-1609
 
 ---
