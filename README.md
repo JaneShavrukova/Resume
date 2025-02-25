@@ -1,5 +1,4 @@
 # 💻 Yevheniia Shavrukova — Front-End Developer
-
 ---
 
 ## 📝 SUMMARY  
@@ -42,10 +41,11 @@ Now, I’m excited to bring my **problem-solving skills, creativity, and passion
 ---
 
 ## 📫 Let’s connect and create something amazing together!  
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)  
-- **Portfolio:** [janeshavrukova.github.io/portfolio](https://janeshavrukova.github.io/portfolio)  
-- **GitHub:** [github.com/janeshavrukova](https://github.com/janeshavrukova)  
-- **Email:** eva.shavrukova@gmail.com  
-- **Phone:** (778) 955-1609  
+- 🌐 [**Connect with me on LinkedIn**](https://www.linkedin.com/in/yevheniia-shavrukova)  
+- 🌎 [**Explore my Front-End Portfolio**](https://janeshavrukova.github.io/Shavrukova-portfolio/)  
+- 💾 [**View my GitHub Projects**](https://github.com/JaneShavrukova)  
+- 📧 [**Email**](mailto:eva.shavrukova@gmail.com)  
+- 📞 **Phone:** +1 (778) 955-1609 
+ 
 
 ---
