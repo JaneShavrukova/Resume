@@ -18,7 +18,7 @@ Now, I’m excited to bring my **problem-solving skills, creativity, and passion
 
 ## 💼 EXPERIENCE  
 **Front-End Developer** | *January 2024 – Present*  
-- **React Product Catalog:** A dynamic product catalog with a shopping cart, favorites, filtering, and pagination.  
+- **[React Product Catalog](https://janeshavrukova.github.io/e-commerce-catalog/#/)** A dynamic product catalog with a shopping cart, favorites, filtering, and pagination.  
 - **[2048 Game Clone](https://janeshavrukova.github.io/2048-game/)** - A JavaScript-based game with custom game logic for merging cells, scoring, and state management.  
 - **[BOSE Landing Page](https://janeshavrukova.github.io/bose-landing-page/#)** - A responsive landing page with enhanced user experience and cross-browser compatibility.  
 
