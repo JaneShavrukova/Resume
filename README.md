@@ -1,4 +1,4 @@
-# 💻 Shavrukova Yevheniia — Front-End Developer
+# 💻 Yevheniia Shavrukova — Front-End Developer
 
 
 ## 📝 SUMMARY  
