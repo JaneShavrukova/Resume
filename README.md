@@ -34,7 +34,7 @@ Now, I’m excited to bring my **problem-solving skills, creativity, and passion
 ---
 
 ## 🎓 EDUCATION  
-- **Advanced Front-End Developer Course** — *Mate Academy, 2023–2024*  
+- **Advanced Front-End Developer Course** — *Mate Academy, 2024–2025*  
 - **Master of Mathematical Statistics** — *Donetsk National University, 2011–2012*  
 - **Bachelor of Mathematics** — *Donetsk National University, 2007–2011*  
 
